@@ -4,7 +4,7 @@ public class ZooSimulator {
     public static void main(String[] args) {
 
         //Instantiate various animals in a main method
-        Animal lion = new Lion("The King", "Brown", 10, 300);
+        Animal lion = new Lion("Simba", "Brown", 10, 300);
         Animal elephant = new Elephant("Ganesh", "Grey", 2, 2000);
         Animal parrot = new Parrot("Melody", "Green", 10, 0.5);
         Animal eagle = new Eagle("Jack", "Brown", 20, 10);
