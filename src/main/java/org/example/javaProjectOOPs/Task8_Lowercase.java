@@ -2,7 +2,7 @@ package org.example.javaProjectOOPs;
 
 import java.util.ArrayList;
 
-public class Task9_Lowercase {
+public class Task8_Lowercase {
     public static void main(String[] args) {
         ArrayList<String> items=new ArrayList<>();
         items.add("Jennifer");
