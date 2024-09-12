@@ -1,17 +1,17 @@
-package org.example.javaProjectOOPs.ZooEcosystem.ZooEcosystem;
+package org.example.javaProjectOOPs.ZooEcosystem;
 
-public class Mammal extends Animal {
+public class Bird extends Animal {
 
-    public Mammal(String name, String color, int age, double weight) {
+    public Bird(String name, String color, int age, double weight) {
         super(name, color, age, weight);
     }
 
     public void eat() {
-        System.out.println("Animals eat");
+        System.out.println("Birds eat");
     }
 
     public void makeSound() {
-        System.out.println("Animals make different sounds");
+        System.out.println("Birds make different sounds");
     }
 
     @Override

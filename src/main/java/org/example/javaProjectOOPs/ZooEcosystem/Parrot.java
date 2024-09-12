@@ -1,4 +1,4 @@
-package org.example.javaProjectOOPs.ZooEcosystem.ZooEcosystem;
+package org.example.javaProjectOOPs.ZooEcosystem;
 
 public class Parrot extends Bird{
 
